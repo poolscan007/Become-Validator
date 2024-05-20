@@ -1,7 +1,7 @@
 # Become-Validator
 
 
-Git clone https://github.com/MEDIABLOCKAI/validator-setup
+Git clone 
 
 Create an Account
 
@@ -28,9 +28,9 @@ Stake
 
 Stake
 
-To stake MBC coin, all you should do is sending your MBC coin to the MBC Consensus contract address over the MBC network from the validator address. The MBC Consensus contract address: 0x7eFb6A569C57e2c40DCa3533b47B3EC9ce69529f The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to MBC and send the MBC coin to the Consensus contract address.
+To stake PSC coin, all you should do is sending your 100000 PSC coin to the PSC Consensus contract address over the PSC network from the validator address. The PSC Consensus contract address: 0xd3c951B3A691d3deAA3D95221Fd6332683C2eBA9 The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to PSC and send the PSC coin to the Consensus contract address.
 
-You can find your key-store (containing your private key) and the password for the created account in: /node/keys/MBC/UTC--xxxx /node.pwd
+You can find your key-store (containing your private key) and the password for the created account in: /node/keys/PSC/UTC--xxxx /node.pwd
 
 Wait for 1 cycle (approximately 48 hours).
 
