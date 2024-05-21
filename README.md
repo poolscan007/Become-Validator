@@ -9,19 +9,19 @@
 chmod +x openethereum
 ./openethereum account new --config ./node.toml
 ```
-Returned address like that 0x00aa39d30f0d20ff03a22ccfc30b7efbfca597c2
+Returned address like that 0xC8c2b1286187484BCbEbE92a2d0712126b918018
 
 Copy result address to mode.toml 
 Ex:
 ```
 ...
 [account]
-unlock = ["0x00aa39d30f0d20ff03a22ccfc30b7efbfca597c2"]
+unlock = ["0xC8c2b1286187484BCbEbE92a2d0712126b918018"]
 password = ["password"]
 
 [mining]
 force_sealing = true
-engine_signer = "0x00aa39d30f0d20ff03a22ccfc30b7efbfca597c2"
+engine_signer = "0xC8c2b1286187484BCbEbE92a2d0712126b918018"
 reseal_on_txs = "none"
 ...
 ```
