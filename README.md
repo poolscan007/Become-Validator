@@ -1,7 +1,7 @@
 ## Become-Validator
 
 
-Git clone 
+git clone https://github.com/poolscan007/Become-Validator.git
 
 Create an Account
 
